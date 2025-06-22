@@ -87,6 +87,7 @@ const HeroSection = () => {
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 mb-8 animate-fade-in" style={{ animationDelay: '0.6s' }}>
+              <a href="/cv.pdf" download="Najath_Mohomed_Resume.pdf" className="w-full sm:w-auto">
               <button className="bg-gradient-to-r from-blue-500 to-purple-600 text-white px-8 py-3 rounded-lg font-semibold hover:from-blue-600 hover:to-purple-700 transition-all duration-300 transform hover:scale-105 hover:shadow-lg hover:shadow-blue-500/25 flex items-center justify-center gap-2">
                 <Download size={20} />
                 Download Resume
