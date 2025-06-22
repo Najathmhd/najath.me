@@ -92,6 +92,7 @@ const HeroSection = () => {
                 <Download size={20} />
                 Download Resume
               </button>
+              </a>
               <button 
                 onClick={scrollToProjects}
                 className="border border-gray-500 text-gray-300 px-8 py-3 rounded-lg font-semibold hover:bg-gray-800 hover:border-gray-400 transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer"
