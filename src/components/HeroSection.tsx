@@ -23,7 +23,7 @@ const HeroSection = () => {
                   <div className="flip-card-inner">
                     <div className="flip-card-front">
                       <img
-                        src="/lovable-uploads/940aa515-c646-4eeb-9a9c-f53d1c5f9edf.png"
+                        src="/lovable-uploads/profilee.jpeg"
                         alt="Najath Mohomed"
                         className="w-full h-full rounded-2xl object-cover shadow-2xl"
                       />
